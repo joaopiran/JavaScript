@@ -1,0 +1,1 @@
+console.log("joão Victor, 16, Santa Rita do Passa Quatro, 2 B, O poderoso Chefão, Palmeiras, picanha, esportes, Jesus Chorou, cachorro  \n");
